@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../fonts/iranyekan_medium.ttf') format('truetype'), url('../fonts/iranyekan_medium.eot') format('embedded-opentype'), url('../fonts/iranyekan_medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'IranYekan_eb';
+    src: url('../fonts/iranyekan_extrabold.ttf') format('truetype'), url('../fonts/iranyekan_extrabold.eot') format('embedded-opentype'), url('../fonts/iranyekan_extrabold.woff') format('woff');
+}
+
+.iranyekan {
+    font-family: 'IranYekan', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.iranyekan_ebold {
+    font-family: 'IranYekan_eb', Tahoma, Geneva, Verdana, sans-serif !important;
+}
